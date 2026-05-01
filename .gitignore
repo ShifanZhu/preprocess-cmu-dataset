@@ -1,0 +1,12 @@
+__pycache__/
+coding_agent.git.backup/
+_backup_coding_agent_dot_git_preprocess_cmu_dataset/
+*.py[cod]
+*$py.class
+.Python
+outputs/
+*.mp4
+*.avi
+.env
+.venv/
+venv/
